@@ -169,13 +169,13 @@ public class Juice_bot extends TelegramLongPollingBot {
 	@Override
 	public String getBotUsername() {
 		// TODO Auto-generated method stub
-		return "juiicebot";
+		return "insert.name";
 	}
 
 	@Override
 	public String getBotToken() {
 		// TODO Auto-generated method stub
-		return "1672474408:AAFMFC0-pzAzQbM_7VNiQVU71pPRvgTRYrc";
+		return "insert.token";
 	}
 
 }
